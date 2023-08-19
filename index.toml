@@ -257,6 +257,34 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
+file = "emotes/Dragged down.emotecraft"
+hash = "326772d82879deabae6b0fa4eda8606898766eeef26ee8aec0799d9e05dcd74f"
+
+[[files]]
+file = "emotes/Emerge.emotecraft"
+hash = "d7cc085f1531f6f56112ad0f1053e677cbe376ce2f24a4cc633740a3d1253433"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Four.emotecraft"
+hash = "df18eb6cd01cabe3906a6185081b901f6396217b03840204ebf645624c859691"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/fap.json"
+hash = "1d0967eaa03bf4982e25c0d138594a7d6a57cd217c4ec0fb85d1fac3c6d556d6"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -319,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
 
 [[files]]
@@ -570,6 +603,18 @@ metafile = true
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
 metafile = true
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.8e.zip.txt"
+hash = "9aae42be542e901e21706f32fe256215994fb4b199a5cb435f3f857c3c9d804c"
+
+[[files]]
+file = "shaderpacks/Nostalgia_v5.0.zip.txt"
+hash = "0f1d7bfba5a89ca7507809903832c51c611f61ab66446dd76e0452bd5e79635f"
+
+[[files]]
+file = "shaderpacks/VanillaPlus_v3.2.zip.txt"
+hash = "abea406e6c457f5e45b60be43f0a6b021211c948443c9305aab79648a4248ee5"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"

@@ -1,0 +1,9 @@
+#Sat Aug 19 03:21:21 BST 2023
+ssaoEnabled=true
+legacyFlareToggle=true
+UseLightleakPrevention=true
+cloudVolumeAlt=240
+customWaterNormals=true
+customWaterColor=true
+reflectionsEnabled=true
+colorPreset=3
