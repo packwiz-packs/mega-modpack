@@ -1,0 +1,13 @@
+name = "IceCream"
+filename = "icecream-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JFKvoU4y/versions/5U4f5O7c/icecream-1.0.3.jar"
+hash-format = "sha1"
+hash = "dc828a8e13acaffb2391150fde4b348b6eba4118"
+
+[update]
+[update.modrinth]
+mod-id = "JFKvoU4y"
+version = "5U4f5O7c"

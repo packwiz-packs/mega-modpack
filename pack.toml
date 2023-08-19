@@ -1,0 +1,13 @@
+name = "Mega Modpack"
+author = "womble"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8fe5878e817005cee4c42e651d8b6439e3101ec12a7eb6ba40d119cd30b3dd50"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

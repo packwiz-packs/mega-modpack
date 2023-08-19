@@ -1,0 +1,27 @@
+{
+	"enabled": true,
+	// Keybinding to open the Macro editing screen
+	"openMacroScreenKeybind": "key.keyboard.keypad.divide",
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.mouse.5",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/mw1",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.mouse.4",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/mw2",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		}
+	]
+}
