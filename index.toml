@@ -57,16 +57,8 @@ file = "config/cmdkeybindconfig.json5"
 hash = "6ff59b12a53d03f5c634936a951d2f748cacfb7db7b9ea2fa8e3ac85669a4c31"
 
 [[files]]
-file = "config/craftpresence.json"
-hash = "d0d3adef2f81e7463a247e1d18113367d39c8e5f5aa13cdc95919bc784aea54b"
-
-[[files]]
 file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
-
-[[files]]
-file = "config/dashloader.json"
-hash = "1ec32bbcb7519614152292bbcb282c4a5c75bca3f98aca282d872a7fde95d9ae"
 
 [[files]]
 file = "config/debugify-descriptions.json"
