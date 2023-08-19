@@ -590,6 +590,11 @@ hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
 
 [[files]]
+file = "mods/tnttime.pw.toml"
+hash = "737c3f59f4acbe816179fc6ce5a44afd62a0a58f58fdcce06c2a7c6b2dc149f5"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true

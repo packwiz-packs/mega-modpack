@@ -1,0 +1,13 @@
+name = "TNT Time"
+filename = "tnttime-mc1.20.1-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qbVUbcik/versions/VAbcRvzB/tnttime-mc1.20.1-1.3.0.jar"
+hash-format = "sha1"
+hash = "d96c1ad786f146aea51002b3029686af7ce90372"
+
+[update]
+[update.modrinth]
+mod-id = "qbVUbcik"
+version = "VAbcRvzB"
