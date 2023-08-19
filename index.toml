@@ -61,6 +61,10 @@ file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "1ec32bbcb7519614152292bbcb282c4a5c75bca3f98aca282d872a7fde95d9ae"
+
+[[files]]
 file = "config/debugify-descriptions.json"
 hash = "9e0a3e50d3354d8f812dee6fdc146dd863a44be50fad55950abd2224a963d15f"
 
@@ -315,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
