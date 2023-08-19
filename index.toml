@@ -465,6 +465,11 @@ hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]
+file = "mods/mainmenuchanger.pw.toml"
+hash = "803b2cc759b81556e3e6eea29d36ac28254ae235977c9fc9f3a893909d434b55"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
@@ -472,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "5f6bbdeff1476501410b0e6f304a3d37183d9774bd1b182c20ffd186bb140ba2"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
