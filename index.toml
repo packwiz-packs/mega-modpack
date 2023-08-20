@@ -475,6 +475,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "b4326b2d0d0c45d4a817f4d3d84682f976b7270da2fbc0c91801b75834bf2722"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -582,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "bf2c5830631b2cfe893e2b4fb5d1ee7ca740b3537798fc008f43ef7a0ff0b173"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "a8c99d0a9206ab8ae6b4b3b9e3d94cdbf30282b4d24611cadf4ac7b47a206f00"
 metafile = true
 
 [[files]]
