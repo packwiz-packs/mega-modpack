@@ -535,6 +535,11 @@ hash = "49758a58aa3fa0e8032fd7612be3254700eb6ef49fb0fa67070c9da330216485"
 metafile = true
 
 [[files]]
+file = "mods/optifabric.pw.toml"
+hash = "51e383679a57a165fb0d9aa7fd30a5f5a11e316fe3e7d3c0764541e4da2e5de0"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
