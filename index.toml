@@ -355,6 +355,11 @@ hash = "5a0bfb6ba4f126bd0404203f3f53b6ae6f2cf0b2631b6207a6b1dc6f7c82f771"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
 metafile = true
@@ -587,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "cb0501d4466ac36c8794c245b520eaf8c8b0649ef2f045009031dba7498c58a3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
 metafile = true
 
 [[files]]
