@@ -570,6 +570,11 @@ hash = "bf2c5830631b2cfe893e2b4fb5d1ee7ca740b3537798fc008f43ef7a0ff0b173"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "3d36cc9f465711f719624bee906860b36e84e69d92eb9a5d51021a5c8bb5bac0"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "cb0501d4466ac36c8794c245b520eaf8c8b0649ef2f045009031dba7498c58a3"
 metafile = true
