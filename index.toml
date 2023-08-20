@@ -550,6 +550,11 @@ hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "56f94149cc07c56c35f7141b4e5a0fb2fce9d85439058d61e02d1f44f8f8aa10"
+metafile = true
+
+[[files]]
 file = "mods/online-emotes.pw.toml"
 hash = "49758a58aa3fa0e8032fd7612be3254700eb6ef49fb0fa67070c9da330216485"
 metafile = true
@@ -622,11 +627,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
