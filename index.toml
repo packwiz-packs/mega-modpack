@@ -570,6 +570,11 @@ hash = "cb0501d4466ac36c8794c245b520eaf8c8b0649ef2f045009031dba7498c58a3"
 metafile = true
 
 [[files]]
+file = "mods/server-country-flags.pw.toml"
+hash = "76b1e25eee328e407c05acee25218bf7d45944e40a62f61716a5d0816e293d75"
+metafile = true
+
+[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "e4fcc1fc82a41c6ab58a926cd61950c290479c8e1c8531bfebaa72eb3d899817"
 metafile = true
