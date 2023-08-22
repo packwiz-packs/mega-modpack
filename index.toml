@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/suppressopengl1280.pw.toml"
-hash = "ffec7c48761552d0658451da31de5f092d488b15818976367e12649bd28c5c59"
+hash = "c40e5555f63bb80fb8d967d19026f5d18898debbc857337871f6775014752a38"
 metafile = true
 
 [[files]]
