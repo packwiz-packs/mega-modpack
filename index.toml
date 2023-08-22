@@ -650,6 +650,11 @@ hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
 metafile = true
 
 [[files]]
+file = "mods/suppressopengl1280.pw.toml"
+hash = "ffec7c48761552d0658451da31de5f092d488b15818976367e12649bd28c5c59"
+metafile = true
+
+[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true

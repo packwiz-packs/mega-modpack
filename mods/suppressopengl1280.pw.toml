@@ -1,0 +1,13 @@
+name = "Suppress OpenGL Error 128(0-2)"
+filename = "suppressopengl1280-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2U4cBE7v/versions/nV26wHaH/suppressopengl1280-1.1.0.jar"
+hash-format = "sha1"
+hash = "8b01e935283c2eef3de0423594a39b8b3babc36c"
+
+[update]
+[update.modrinth]
+mod-id = "2U4cBE7v"
+version = "nV26wHaH"
