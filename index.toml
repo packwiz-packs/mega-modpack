@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "5fe6c5b44697001decdc076df1bd09fbd8b6fe223785e14598f695c42e0545e8"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "bf2c5830631b2cfe893e2b4fb5d1ee7ca740b3537798fc008f43ef7a0ff0b173"
+hash = "538f31487e2c0104a8f376c86972ca78e7a432306c03418c49386657ab76d40c"
 metafile = true
 
 [[files]]
