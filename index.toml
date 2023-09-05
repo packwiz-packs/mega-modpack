@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
 metafile = true
 
 [[files]]
@@ -406,17 +406,17 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "4b3aa2a31aa0ab8c748561418200357b717f1ea9626672aea0653e862964a43f"
+hash = "54a35a60c72cb0881e99d3c186734ecb9bf9e32acb2a8f4d5b2936f6a0449698"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
+hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5fe6c5b44697001decdc076df1bd09fbd8b6fe223785e14598f695c42e0545e8"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
+hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/online-emotes.pw.toml"
-hash = "49758a58aa3fa0e8032fd7612be3254700eb6ef49fb0fa67070c9da330216485"
+hash = "201c760a3c83e91e870d90179efb954d5aac4b332cfc2964d6a2038bfe3a0b15"
 metafile = true
 
 [[files]]
@@ -596,17 +596,17 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "538f31487e2c0104a8f376c86972ca78e7a432306c03418c49386657ab76d40c"
+hash = "e8e3804600645bfc5e74a57e3139f52b283d6ed7f5aacee0a2f9698891633aa9"
 metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "6d3b781ddf357e0b6ec58a3d327359a20e99baa5f0c6188f0c3f5ac6f64b5bf2"
+hash = "5c731d2ce5d0ca8651725748b7f9ce413e90bf742730f66eba47aa10dfc93753"
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "d6df523cc504146a9d96b6bad4e379f364c7bc889d8d17b48ebcda53bdea6d5e"
+hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
-hash = "cb0501d4466ac36c8794c245b520eaf8c8b0649ef2f045009031dba7498c58a3"
+hash = "9118336a4d3134cb94653d32adee3295395e10124c59de9c779208b16cfba6f8"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4bf9b4c8888a01c770878fe183637e0a178bde39109334e0439741126c4df656"
+hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 metafile = true
 
 [[files]]
@@ -681,12 +681,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "74e5a98dbabe5baabaec39f2b6c8dc6908c82aaed5188e798b26ace7b3b590ac"
+hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
