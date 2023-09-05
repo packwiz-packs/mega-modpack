@@ -475,6 +475,11 @@ hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "a4ee77a7c1388ad1874cd4d7a174667d0eb2c836e6ff0d4cd1b7f1551c019ef2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -677,11 +682,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
 metafile = true
 
 [[files]]
