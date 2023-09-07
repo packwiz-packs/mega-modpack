@@ -320,6 +320,11 @@ hash = "8d3280ea80fed62e07bdeda49bb606bf69b51ee7cc80a5f7ae130a5a4c086b00"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
