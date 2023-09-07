@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "54a35a60c72cb0881e99d3c186734ecb9bf9e32acb2a8f4d5b2936f6a0449698"
+hash = "697368cd5e27d6930fe5b7195885f8867347e90122f506aef7afd343d44b2b45"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/online-emotes.pw.toml"
-hash = "201c760a3c83e91e870d90179efb954d5aac4b332cfc2964d6a2038bfe3a0b15"
+hash = "82cdd0db11aabf242564f0bc54ca04b73b000cb08e8fc4b5f1fa1ef0a5b679e7"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ hash = "abea406e6c457f5e45b60be43f0a6b021211c948443c9305aab79648a4248ee5"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "d607da4ce672251838256616b1c6db384f5f0b5d849e428ce05d852d6e9b81ae"
+hash = "5abda04cae7fbd80a64ec353c638af67a0994ebadcd0d9c24c7e482814a866cb"
 metafile = true
 
 [[files]]

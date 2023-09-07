@@ -1,13 +1,13 @@
 name = "Online Emotes"
-filename = "online-emotes-2.1.0-fabric.jar"
+filename = "online-emotes-2.1.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dc4g4seU/versions/zF39lJCF/online-emotes-2.1.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/Dc4g4seU/versions/rWacmm7l/online-emotes-2.1.1-fabric.jar"
 hash-format = "sha1"
-hash = "48aa034be107929f39ffd46186557427b0afe53a"
+hash = "cce58e67c6cd1b535b029b64934b4a3b6b847af2"
 
 [update]
 [update.modrinth]
 mod-id = "Dc4g4seU"
-version = "zF39lJCF"
+version = "rWacmm7l"
