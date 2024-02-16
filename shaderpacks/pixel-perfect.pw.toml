@@ -1,13 +1,13 @@
 name = "Pixel Perfect"
-filename = "Pixel-Perfect-1-3-6.zip"
+filename = "Pixel-Perfect-1-4-1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/D5k8BTVz/versions/sXT4sbNA/Pixel-Perfect-1-3-6.zip"
+url = "https://cdn.modrinth.com/data/D5k8BTVz/versions/B7NHcqal/Pixel-Perfect-1-4-1.zip"
 hash-format = "sha1"
-hash = "2d62cb73f9cf8eb2d6ff8a530f4f9b0de770692d"
+hash = "684d3acaf992b4edaa3d1c872120ea82c8c3b5d2"
 
 [update]
 [update.modrinth]
 mod-id = "D5k8BTVz"
-version = "sXT4sbNA"
+version = "B7NHcqal"
