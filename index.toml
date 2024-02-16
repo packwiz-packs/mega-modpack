@@ -530,11 +530,6 @@ hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
 metafile = true
 
 [[files]]
-file = "mods/mindful-darkness.pw.toml"
-hash = "2ec63f6cf6831effc8798f72fa4049622b832082fe99e5512360c5a7c9f82091"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
